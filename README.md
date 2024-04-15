@@ -6,6 +6,8 @@
 This project was designed to draw insights into hesistant attitudes towards Covid-19 vaccination through correlational analysis hesitancy data, reports of Covid-19 impacts, demographics, and political influences at state and county levels. Census Bureau datasets were gathered on the topic of Covid-19 impact, income loss during the pandemic, eviction or expecting eviction. 
 
 ## Repo Contents
+Word - report
+html - same report
 
 
 ##
