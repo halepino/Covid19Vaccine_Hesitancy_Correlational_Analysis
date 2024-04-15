@@ -8,7 +8,7 @@ This project was designed to draw insights into hesistant attitudes towards Covi
 ## Repo Contents
 **Code Files**  
 * Data_Cleaning.Rmd  
-* Vaccine_Hesitancy_Analysis.Rmd  
+* Vaccine_Hesitancy_Analysis.Rmd 
 **Final Reports**  
 * PDF - Vac_Hes_Report  
 * html - Vaccine_Hesitancy_Report  
